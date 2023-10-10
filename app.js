@@ -11,6 +11,7 @@ const footer = document.getElementById('footer')
 const templateFooter = document.getElementById('templateFooter')
 const fragment = document.createDocumentFragment();
 //const btnBotones = document.querySelectorAll('.card .btn');
+console.log(template)
 
 let carritoArray = [];
 
